@@ -1,6 +1,6 @@
 # CeleTech Arsenal - No Crater Patch
 
-RimWorld 模组补丁，移除 [CeleTech Arsenal MKIII](https://steamcommunity.com/sharedfiles/filedetails/?id=) 中**红箭50 重型反坦克导弹**（`CMC_Missile_HeavyATGM`）命中后生成弹药坑（`CraterSmall`）的效果。
+RimWorld 模组补丁，移除 [CeleTech Arsenal MKIII](https://steamcommunity.com/sharedfiles/filedetails/?id=3446237098) 中**红箭50 重型反坦克导弹**（`CMC_Missile_HeavyATGM`）命中后生成弹药坑（`CraterSmall`）的效果。
 
 ## 依赖
 
