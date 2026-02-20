@@ -7,7 +7,7 @@
     <li>1.5</li>
     <li>1.6</li>
   </supportedVersions>
-  <packageId>Patch.CeleTech.NoCrater</packageId>
+  <packageId>fishundbug.CeleTech.NoCrater</packageId>
   <modDependencies>
     <li>
       <packageId>TOT.CeleTech.MKIII</packageId>
